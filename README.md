@@ -1,3 +1,3 @@
 # My-first-FPS-game
 
-Basecailly is a TPS
+Heres gameplay record:
